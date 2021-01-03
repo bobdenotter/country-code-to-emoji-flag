@@ -1,3 +1,7 @@
+| :warning: Note - Fork of abandoned repository |
+|:----------------------------------------|
+| This is the a fork of [this repository](https://github.com/peterkahl/country-code-to-emoji-flag) which was neglectfully abandoned by the original author. |
+
 # Country Code 🔡 ➡️ Emoji Flag 🇬🇧
 
 [![Downloads](https://img.shields.io/packagist/dt/peterkahl/country-code-to-emoji-flag.svg)](https://packagist.org/packages/peterkahl/country-code-to-emoji-flag)
@@ -8,10 +12,10 @@
 Converts a country code to emoji flag. Most flags use a 2-letter code, but some use more (eg England=gbeng, Scotland=gbsct, Wales=gbwls, etc).
 
 ## Example in action: Screenshot of emoji flags inside phpmyadmin table.
-![image](https://github.com/peterkahl/country-code-to-emoji-flag/blob/master/screenshot-phpmyadmin-flags.png "Screenshot of emoji flags inside phpmyadmin table.")
+![image](https://github.com/bobdenotter/country-code-to-emoji-flag/blob/master/screenshot-phpmyadmin-flags.png "Screenshot of emoji flags inside phpmyadmin table.")
 
 ## Example in action: Screenshot of a terminal window displaying a plain text log file.
-![image](https://github.com/peterkahl/country-code-to-emoji-flag/blob/master/logfile-example.png "Screenshot of a terminal window displaying a plain text log file.")
+![image](https://github.com/bobdenotter/country-code-to-emoji-flag/blob/master/logfile-example.png "Screenshot of a terminal window displaying a plain text log file.")
 
 ## Why Emoji❓
 Emoji symbol is a textual replacement for a graphic image file while having the benefits of a graphic image. The image file is already present at your intended destination (a person's device), so why would you transmit the image to them again and again? -- Use emoji!
