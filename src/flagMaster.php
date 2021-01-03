@@ -21,7 +21,7 @@
  * limitations under the License.
  */
 
-namespace peterkahl\flagMaster;
+namespace bobdenotter\flagMaster;
 
 use \Exception;
 

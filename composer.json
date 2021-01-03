@@ -1,11 +1,16 @@
 {
-    "name": "peterkahl/country-code-to-emoji-flag",
+    "name": "bobdenotter/country-code-to-emoji-flag",
     "type": "library",
     "description": "Converts country code to emoji flag.",
     "keywords": ["country", "flag", "emoji"],
-    "homepage": "https://github.com/peterkahl/country-code-to-emoji-flag",
+    "homepage": "https://github.com/bobdenotter/country-code-to-emoji-flag",
     "license": "Apache-2.0",
     "authors": [
+        {
+            "name": "Bob den Otter",
+            "homepage": "https://github.com/bobdenotter",
+            "role": "Maintainer"
+        },
         {
             "name": "Peter Kahl",
             "homepage": "https://github.com/peterkahl",
@@ -17,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "peterkahl\\flagMaster\\": "src/"
+            "bobdenotter\\flagMaster\\": "src/"
         }
     }
 }
